@@ -1,0 +1,11 @@
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\obj\Debug\MainWindow.baml
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\obj\Debug\MainWindow.g.vb
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\obj\Debug\Application.g.vb
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\obj\Debug\Resources.resources
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF-VB.vbproj.GenerateResource.Cache
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Assea\Desktop\New folder\SkeletonBasics-WPF-VB\obj\Debug\SkeletonBasics-WPF.pdb
